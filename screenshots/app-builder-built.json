@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Mass Artifact Forge",
+      "hasCanvas": false,
+      "bodyTextLen": 635,
+      "bodyTextHash": "155a9fa8114136ba9343a195fe0927b9ba53f6bb7a98de455ceb8665b921fd3c",
+      "bodyTextPrefix": "Mass Artifact Forge CONVERSATION TO SKILL Floor Vault Doctrine C",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Mass Artifact Forge",
+      "hasCanvas": false,
+      "bodyTextLen": 608,
+      "bodyTextHash": "d53781a4a9ae46c79cc08a57a5e873b52f13ecfb525a1f4aa6b68d54a7fc1d6d",
+      "bodyTextPrefix": "Mass Artifact Forge Floor Vault Doctrine Artifact Forge Reread t",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
